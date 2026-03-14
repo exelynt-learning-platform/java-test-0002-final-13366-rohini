@@ -1,4 +1,4 @@
-public class NumberPyramid {
+public class NumberBased {
     public static void main(String[] args) {
 
         int n = 5;
